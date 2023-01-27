@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name": "",
+            "id": 0,
+            "email": ""
+        }
+    ],
+    "posts": [
+        {
+            "id": 0,
+            "idUser": 0,
+            "title": "title0",
+            "body": "body0",
+            "active": true
+        }
+    ]
+
+}

@@ -1,0 +1,11 @@
+<ul>
+  <li *ngFor="let p of posts">
+    {{p.id}} - {{p.title}}
+    <br>
+    {{p.body}}
+  </li>
+</ul>
+
+<button (click)="login()">login</button>
+<button (click)="signup()">signup</button>
+<router-outlet></router-outlet>
